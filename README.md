@@ -4,7 +4,7 @@
 This repository contains code introduced in the following paper:
  
 **[Free the Plural: Unrestricted Split-Antecedent Anaphora Resolution]()**  
-Juntao Yu, Nafise Sadat Moosavi, Silviu Paun and Massimo Poesio 
+Juntao Yu, Nafise Sadat Moosavi, Silviu Paun and Massimo Poesio  
 In *Proceedings of he 28th International Conference on Computational Linguistics (COLING)*, 2020
 
 ## Setup Environments
