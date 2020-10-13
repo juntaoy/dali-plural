@@ -23,9 +23,9 @@ In *Proceedings of he 28th International Conference on Computational Linguistics
    {
   "clusters": [[0, 4],[1],[2],[3],], #Coreference use the indices of the mention
   "mentions": [[0,0],[2,3],[5,5],[7,8],[10,10],[12,13]], #mentions [start_index, end_index]
-  "plurals": [[5,1],[5,3]], #plural [anaphor, antecedent] pairs, "both car" --> "a car", "another car"
+  "plurals": [[5,1],[5,3]], #plural [anaphor, antecedent] pairs, "both cars" --> "a car", "another car"
   "doc_key": "nw",
-  "sentences": [["John", "has", "a", "car", "."], ["Mary", "has", "another", "car", "."] ["John", "washed", "both", "car", "yesteday","."]]
+  "sentences": [["John", "has", "a", "car", "."], ["Mary", "has", "another", "car", "."] ["John", "washed", "both", "cars", "yesteday","."]]
   }
   ```
   
