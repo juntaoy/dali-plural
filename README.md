@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains code introduced in the following paper:
  
-**[Free the Plural: Unrestricted Split-Antecedent Anaphora Resolution](https://arxiv.org/abs/2011.00245)**  
+**[Free the Plural: Unrestricted Split-Antecedent Anaphora Resolution](https://www.aclweb.org/anthology/2020.coling-main.538/)**  
 Juntao Yu, Nafise Sadat Moosavi, Silviu Paun and Massimo Poesio  
 In *Proceedings of he 28th International Conference on Computational Linguistics (COLING)*, 2020
 
